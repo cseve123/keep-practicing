@@ -10,6 +10,7 @@ console.log(r2.exec(s));
 
 // es6-unicode u修饰符
 // 𠮷 0xD842 0xDFB7
+// http://www.fileformat.info/info/unicode/char/20bb7/index.htm
 let s1 = '𠮷';
 let s2 = '\uD842\uDFB7';
 console.log(/^\uD842/.test(s2)); // 按字符匹配
