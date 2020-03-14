@@ -1,4 +1,4 @@
-// 对象描述符 defineProperty
+// ES8-对象描述符 defineProperty
 const data = {
   Por: '1/2',
   Dub: '3/4',
