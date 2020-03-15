@@ -1,4 +1,4 @@
-let say = () => {
+let say=() => {
   console.log('test');
 }
 say();
